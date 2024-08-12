@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loadTex.cpp">
+      <Filter>Source Files\Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>Source Files\Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bkground.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ThinkKING\Downloads\12.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ThinkKING\Downloads\planes.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ThinkKING\Downloads\ufo.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ThinkKING\Downloads\Space.jpg">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bullet.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ThinkKING\Downloads\bos2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ThinkKING\Downloads\bos.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="bos3.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="bum.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="bum2.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bk_space.jpg">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bum3.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bos5.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bos6.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bos4.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bos8.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bos10.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bullet2.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="bullet3.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="win.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\congra.jpeg">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
